@@ -1,4 +1,4 @@
-Build Status Badge: [![Artifact](https://github.com/DKLind/github-actions/actions/workflows/artifact.yml/badge.svg)](https://github.com/DKLind/github-actions/actions/workflows/artifact.yml)
+# Build Status Badge: [![Artifact](https://github.com/DKLind/github-actions/actions/workflows/artifact.yml/badge.svg)](https://github.com/DKLind/github-actions/actions/workflows/artifact.yml)
 
 # my-first-action
 My First Action
